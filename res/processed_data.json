@@ -1,0 +1,4105 @@
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EntityCommonStockSharesOutstanding",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EntityPublicFloat",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AccountsPayableCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AccountsReceivableNetCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AccruedLiabilitiesCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AccruedLiabilitiesCurrentAndNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AdditionalPaidInCapitalCommonStock",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AdditionsToNoncurrentAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AdjustmentsToAdditionalPaidInCapitalEquityComponentOfConvertibleDebt",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AdjustmentsToAdditionalPaidInCapitalTaxEffectFromShareBasedCompensation",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AllowanceForDoubtfulAccountsReceivable",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AllowanceForDoubtfulAccountsReceivableCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AmortizationOfDebtDiscountPremium",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AmortizationOfIntangibleAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AssetImpairmentCharges",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"Assets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AssetsCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AssetsHeldForSaleLongLivedFairValueDisclosure",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AssetsNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AssetsOfDisposalGroupIncludingDiscontinuedOperation",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"BuildingsAndImprovementsGross",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"BusinessExitCosts1",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CapitalLeaseObligationsCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CapitalLeaseObligationsNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CashAndCashEquivalentsAtCarryingValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CashAndCashEquivalentsPeriodIncreaseDecrease",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CashProvidedByUsedInFinancingActivitiesDiscontinuedOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CashProvidedByUsedInInvestingActivitiesDiscontinuedOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CashSurrenderValueOfLifeInsurance",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CommonStockDividendsPerShareDeclared",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CommonStockParOrStatedValuePerShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CommonStockSharesAuthorized",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CommonStockSharesIssued",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CommonStockValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CommonStockValueOutstanding",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ComprehensiveIncomeNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ContractWithCustomerAssetCreditLossExpense",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ContractWithCustomerAssetCumulativeCatchUpAdjustmentToRevenueChangeInMeasureOfProgress",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ContractWithCustomerAssetNetCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ContractWithCustomerAssetNetNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ContractWithCustomerLiability",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ContractWithCustomerLiabilityCumulativeCatchUpAdjustmentToRevenueChangeInMeasureOfProgress",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ContractWithCustomerLiabilityCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ContractWithCustomerLiabilityNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ContractWithCustomerLiabilityRevenueRecognized",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CostOfGoodsAndServicesSold",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CostOfGoodsSold",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CostOfServices",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CostsAndExpenses",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CostsInExcessOfBillingsOnUncompletedContractsOrProgramsExpectedToBeCollectedAfterOneYear",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CumulativeTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CurrentFederalTaxExpenseBenefit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CurrentForeignTaxExpenseBenefit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CurrentIncomeTaxExpenseBenefit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CurrentStateAndLocalTaxExpenseBenefit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DebtCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DebtInstrumentCarryingAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DebtInstrumentDecreaseRepayments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DebtInstrumentRepurchaseAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DebtInstrumentRepurchasedFaceAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DebtLongtermAndShorttermCombinedAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredCompensationPlanAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredFinanceCostsNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredIncomeTaxExpenseBenefit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredIncomeTaxLiabilities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredIncomeTaxLiabilitiesNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredRentCredit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredRevenueCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredRevenueNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsDeferredIncome",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsGross",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsHedgingTransactions",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsInventory",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsLiabilitiesNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsNetCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsNetNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsOperatingLossCarryforwardsStateAndLocal",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsOther",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsEmployeeBenefits",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsPostretirementBenefits",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsAllowanceForDoubtfulAccounts",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsImpairmentLosses",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxAssetsValuationAllowance",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxLiabilities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxLiabilitiesDeferredExpenseCapitalizedResearchAndDevelopmentCosts",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxLiabilitiesFinancingArrangements",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxLiabilitiesGoodwillAndIntangibleAssetsIntangibleAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxLiabilitiesNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxLiabilitiesOther",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DeferredTaxLiabilitiesPropertyPlantAndEquipment",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DefinedBenefitPlanExpectedAmortizationOfGainLossNextFiscalYear",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DefinedBenefitPlanWeightedAverageAssetAllocations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DefinedContributionPlanCostRecognized",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DepreciationDepletionAndAmortization",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DerivativeInstrumentsLossReclassifiedFromAccumulatedOCIIntoIncomeEffectivePortion",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DerivativeNumberOfInstrumentsHeld",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DiscontinuedOperationGainLossFromDisposalOfDiscontinuedOperationBeforeIncomeTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DiscontinuedOperationGainLossOnDisposalOfDiscontinuedOperationNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DiscontinuedOperationIncomeLossFromDiscontinuedOperationDuringPhaseOutPeriodNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DiscontinuedOperationIncomeLossFromDiscontinuedOperationNetOfTaxPerBasicShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DiscontinuedOperationIncomeLossFromDiscontinuedOperationNetOfTaxPerDilutedShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DiscontinuedOperationTaxEffectOfDiscontinuedOperation",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationAccountsNotesAndLoansReceivableNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationAccountsPayableAndAccruedLiabilitiesCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationAssetsNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationCostsOfGoodsSold",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationGeneralAndAdministrativeExpense",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationGoodwillCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationInventoryCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationOperatingIncomeLoss",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationOtherCurrentAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupIncludingDiscontinuedOperationRevenue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DisposalGroupNotDiscontinuedOperationGainLossOnDisposal",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DividendsCommonStockCash",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EarningsPerShareBasic",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EarningsPerShareBasicAndDiluted",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EarningsPerShareDiluted",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EffectiveIncomeTaxRateContinuingOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EffectOfExchangeRateOnCashAndCashEquivalents",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EffectOfExchangeRateOnCashAndCashEquivalentsContinuingOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EquityMethodInvestmentOwnershipPercentage",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EquityMethodInvestments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ExcessTaxBenefitFromShareBasedCompensationFinancingActivities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ExcessTaxBenefitFromShareBasedCompensationOperatingActivities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ExtinguishmentOfDebtAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FinancingReceivableRecordedInvestmentPastDue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedIntangibleAssetsAccumulatedAmortization",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedIntangibleAssetsAmortizationExpense",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedIntangibleAssetsAmortizationExpenseYearFive",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedIntangibleAssetsAmortizationExpenseYearFour",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedIntangibleAssetsAmortizationExpenseYearThree",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedIntangibleAssetsGross",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedIntangibleAssetsNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FiniteLivedLicenseAgreementsGross",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FutureAmortizationExpenseYearFive",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FutureAmortizationExpenseYearFour",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FutureAmortizationExpenseYearOne",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FutureAmortizationExpenseYearThree",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"FutureAmortizationExpenseYearTwo",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GainLossOnDispositionOfAssets1",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GainLossOnInvestments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GainLossOnSaleOfBusiness",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GainLossOnSaleOfInvestments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GainsLossesOnExtinguishmentOfDebt",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"Goodwill",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GoodwillAcquiredDuringPeriod",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GoodwillForeignCurrencyTranslationGainLoss",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GoodwillImpairmentLoss",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GoodwillPurchaseAccountingAdjustments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GoodwillSubsequentRecognitionOfDeferredTaxAsset",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GoodwillTranslationAdjustments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GoodwillWrittenOffRelatedToSaleOfBusinessUnit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"GrossProfit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromContinuingOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromContinuingOperationsPerBasicAndDilutedShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromContinuingOperationsPerBasicShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromContinuingOperationsPerDilutedShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromDiscontinuedOperationsNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToNoncontrollingInterest",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicAndDilutedShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeLossFromEquityMethodInvestments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxExpenseBenefit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxExpenseBenefitIntraperiodTaxAllocation",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxesPaid",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReceivable",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationChangeInDeferredTaxAssetsValuationAllowance",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationChangeInEnactedTaxRate",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationDeductionsQualifiedProductionActivities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationIncomeTaxExpenseBenefitAtFederalStatutoryIncomeTaxRate",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationMinorityInterestIncomeExpense",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationNondeductibleExpenseLeases",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationOtherAdjustments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationPriorYearIncomeTaxes",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationStateAndLocalIncomeTaxes",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationTaxCreditsResearch",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncomeTaxReconciliationTaxSettlements",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInAccountsAndNotesReceivable",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInAccountsPayable",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInAccountsReceivable",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInAccruedLiabilities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInContractWithCustomerAsset",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInContractWithCustomerLiability",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInDeferredRevenue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInInventories",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInOtherAccruedLiabilities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInOtherOperatingCapitalNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInOtherOperatingLiabilities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncreaseDecreaseInPrepaidExpensesOther",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncrementalCommonSharesAttributableToConversionOfDebtSecurities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IncrementalCommonSharesAttributableToShareBasedPaymentArrangements",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IndefiniteLivedTrademarks",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IntangibleAssetsGrossExcludingGoodwill",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IntangibleAssetsNetExcludingGoodwill",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"IntangibleAssetsNetIncludingGoodwill",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InterestExpense",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InterestOnConvertibleDebtNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InterestPaid",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InterestPaidNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InventoryFinishedGoodsNetOfReserves",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InventoryNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InventoryPartsAndComponentsNetOfReserves",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InventoryRawMaterialsAndPurchasedPartsNetOfReserves",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InventoryWorkInProcessNetOfReserves",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InventoryWriteDown",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InvestmentIncomeInterest",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"Land",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LeaseCost",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LegalFees",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LesseeOperatingLeaseLiabilityPaymentsDue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LesseeOperatingLeaseLiabilityPaymentsDueYearFive",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LesseeOperatingLeaseLiabilityPaymentsDueYearFour",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LesseeOperatingLeaseLiabilityPaymentsDueYearThree",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LesseeOperatingLeaseLiabilityPaymentsDueYearTwo",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LesseeOperatingLeaseLiabilityPaymentsRemainderOfFiscalYear",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LesseeOperatingLeaseLiabilityUndiscountedExcessAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LessorOperatingLeasePaymentsToBeReceivedFiveYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LessorOperatingLeasePaymentsToBeReceivedFourYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LessorOperatingLeasePaymentsToBeReceivedNextTwelveMonths",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LessorOperatingLeasePaymentsToBeReceivedThreeYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LessorOperatingLeasePaymentsToBeReceivedTwoYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LettersOfCreditOutstandingAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LiabilitiesAndStockholdersEquity",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LiabilitiesCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LiabilitiesNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LiabilitiesOfDisposalGroupIncludingDiscontinuedOperation",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LitigationReserve",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LitigationSettlementAmountAwardedToOtherParty",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebt",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtAndCapitalLeaseObligations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtAndCapitalLeaseObligationsCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtFairValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LongTermDebtNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LossContingencyAccrualAtCarryingValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LossContingencyLossInPeriod",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LossOnContractTermination",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"MinorityInterest",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"MinorityInterestIncreaseFromStockIssuance",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetCashProvidedByUsedInContinuingOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetCashProvidedByUsedInFinancingActivities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetCashProvidedByUsedInFinancingActivitiesContinuingOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetCashProvidedByUsedInInvestingActivities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetCashProvidedByUsedInInvestingActivitiesContinuingOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetCashProvidedByUsedInOperatingActivities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetIncomeLoss",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetIncomeLossAttributableToNoncontrollingInterest",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetIncomeLossAvailableToCommonStockholdersBasic",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NetIncomeLossAvailableToCommonStockholdersDiluted",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NoncontrollingInterestIncreaseFromSaleOfParentEquityInterest",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NoncurrentAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NotesAndLoansReceivableGrossNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NumberOfOperatingSegments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NumberOfReportableSegments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"NumberOfReportingUnits",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeaseCost",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeaseLiability",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeaseLiabilityCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeaseLiabilityNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasePayments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeaseRightOfUseAsset",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsDue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsDueCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsDueInFiveYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsDueInFourYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsDueInThreeYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsDueInTwoYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsDueThereafter",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsReceivableCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsReceivableInFiveYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsReceivableInFourYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsReceivableInThreeYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeasesFutureMinimumPaymentsReceivableInTwoYears",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OperatingLeaseWeightedAverageDiscountRatePercent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherAssetImpairmentCharges",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherAssetsCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherAssetsMiscellaneousNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherAssetsNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeDefinedBenefitPlanNetPriorServiceCostsCreditArisingDuringPeriodNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPeriodIncreaseDecrease",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecrease",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeForeignCurrencyTranslationAdjustmentTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossBeforeReclassificationsNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansBenefitPlanImprovementTaxEffect",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherExpenses",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherLiabilities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"OtherNonoperatingIncomeExpense",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsForPreviousAcquisition",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsForProceedsFromOtherInvestingActivities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsForRepurchaseOfCommonStock",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsOfDebtExtinguishmentCosts",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsOfDividendsCommonStock",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsOfFinancingCosts",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsToAcquireBusinessesNetOfCashAcquired",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsToAcquireEquityMethodInvestments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsToAcquireInterestInJointVenture",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsToAcquireProductiveAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentsToAcquirePropertyPlantAndEquipment",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PreferredStockParOrStatedValuePerShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PreferredStockSharesAuthorized",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PreferredStockSharesIssued",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PreferredStockValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PrepaidExpenseAndOtherAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PrepaidExpenseAndOtherAssetsCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PreproductionCostsRelatedToLongTermSupplyArrangementsCostsCapitalized",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromDivestitureOfBusinesses",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromDivestitureOfBusinessesNetOfCashDivested",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromDivestitureOfInterestInJointVenture",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromIncomeTaxRefunds",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromIssuanceOfLongTermDebt",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromLifeInsurancePolicies",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromMinorityShareholders",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromPaymentsForOtherFinancingActivities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromRepaymentsOfShortTermDebt",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromSaleAndCollectionOfReceivables",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromSaleOfAvailableForSaleSecuritiesEquity",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromSaleOfProductiveAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromShortTermDebt",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProceedsFromStockOptionsExercised",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProfitLoss",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PropertyPlantAndEquipmentGross",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PropertyPlantAndEquipmentNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ProvisionForDoubtfulAccounts",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ReceivablesHeldForSaleAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ReceivablesNetCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ReclassificationFromAccumulatedOtherComprehensiveIncomeCurrentPeriodNetOfTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RecordedUnconditionalPurchaseObligationDueInFifthYear",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RecordedUnconditionalPurchaseObligationDueInFourthYear",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RecordedUnconditionalPurchaseObligationDueInSecondYear",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RecordedUnconditionalPurchaseObligationDueInThirdYear",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RecordedUnconditionalPurchaseObligationDueWithinOneYear",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ReductionOfShortTermCapitalLeaseObligations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RepaymentsOfConvertibleDebt",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RepaymentsOfLongTermCapitalLeaseObligations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RepaymentsOfLongTermDebt",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RestrictedCashAndCashEquivalentsAtCarryingValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RestructuringCharges",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RestructuringCostsAndAssetImpairmentCharges",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RestructuringSettlementAndImpairmentProvisions",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RetainedEarningsAccumulatedDeficit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RevenueFromContractWithCustomerExcludingAssessedTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RevenueFromContractWithCustomerIncludingAssessedTax",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RevenueRemainingPerformanceObligation",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RevenueRemainingPerformanceObligationPercentage",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SaleLeasebackTransactionDeferredGainNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SaleLeasebackTransactionNetProceeds",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SaleLeasebackTransactionNetProceedsInvestingActivities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SalesRevenueGoodsNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SalesRevenueNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SalesRevenueServicesNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SellingGeneralAndAdministrativeExpense",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ShareBasedCompensation",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsExpectedDividendRate",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsExpectedVolatilityRate",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsRiskFreeInterestRate",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ShareBasedCompensationArrangementByShareBasedPaymentAwardNumberOfSharesAvailableForGrant",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ShareBasedCompensationSharesAuthorizedUnderStockOptionPlansExercisePriceRangeNumberOfExercisableOptions",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ShareBasedCompensationSharesAuthorizedUnderStockOptionPlansExercisePriceRangeNumberOfOutstandingOptions",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SharebasedCompensationSharesAuthorizedUnderStockOptionPlansExercisePriceRangeExercisableOptionsWeightedAverageExercisePrice1",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SharebasedCompensationSharesAuthorizedUnderStockOptionPlansExercisePriceRangeOutstandingOptionsWeightedAverageExercisePriceBeginningBalance1",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"SharebasedCompensationSharesAuthorizedUnderStockOptionPlansExercisePriceRangeOutstandingOptionsWeightedAverageRemainingContractualTerm1",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ShortTermBorrowings",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"ShortTermLeaseCost",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"StockholdersEquity",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"StockholdersEquityOther",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"StockIssuedDuringPeriodValueRestrictedStockAwardNetOfForfeitures",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"StockIssuedDuringPeriodValueShareBasedCompensation",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"StockIssuedDuringPeriodValueStockOptionsExercised",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"StockIssuedDuringPeriodValueTreasuryStockReissued",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"StockRepurchasedDuringPeriodShares",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"StockRepurchasedDuringPeriodValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"TaxCutsAndJobsActOf2017ChangeInTaxRateIncomeTaxExpenseBenefit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"TreasuryStockAcquiredAverageCostPerShare",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"TreasuryStockCommonValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"TreasuryStockShares",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"TreasuryStockValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"TreasuryStockValueAcquiredCostMethod",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"UnbilledContractsReceivable",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"UndistributedEarningsLossAllocatedToParticipatingSecuritiesBasic",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"UndistributedEarningsLossAllocatedToParticipatingSecuritiesDiluted",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"UnrecognizedTaxBenefits",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"VariableLeaseCost",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"WeightedAverageNumberOfDilutedSharesOutstanding",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"WeightedAverageNumberOfSharesOutstandingBasic",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EquityMethodInvestmentOtherThanTemporaryImpairment",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PensionExpenseReversalOfExpenseNoncash",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"TreasuryStockCommonShares",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"PaymentOfFinancingAndStockIssuanceCosts",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedCurrentAssetsReceivables",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedDeferredTaxLiabilities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"BusinessCombinationRecognizedIdentifiableAssetsAcquiredGoodwillAndLiabilitiesAssumedNet",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DefinedBenefitPlanAmortizationOfGainsLosses",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DefinedBenefitPlanExpectedReturnOnPlanAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DefinedBenefitPlanNetPeriodicBenefitCost",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EffectiveIncomeTaxRateReconciliationNondeductibleExpense",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EffectiveIncomeTaxRateReconciliationOtherAdjustments",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EffectiveIncomeTaxRateReconciliationShareBasedCompensationExcessTaxBenefitPercent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"EffectiveIncomeTaxRateReconciliationStateAndLocalIncomeTaxes",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"Liabilities",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LossContingencyDamagesSoughtValue",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"RestrictedInvestmentsCurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DefinedBenefitPlanFairValueOfPlanAssets",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DefinedBenefitPlanAssetsForPlanBenefitsNoncurrent",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"BusinessCombinationAcquisitionRelatedCosts",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"DefinedContributionPlanEmployerDiscretionaryContributionAmount",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LineOfCredit",
+        "facts_value":{
+
+        }
+    }
+
+    {
+        "cik":1750,
+        "entityName":"AAR CORP",
+        "fact_key":"LossContingencyEstimateOfPossibleLoss",
+        "facts_value":{
+
+        }
+    }
+
